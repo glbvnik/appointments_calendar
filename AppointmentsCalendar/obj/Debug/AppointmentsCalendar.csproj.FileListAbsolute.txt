@@ -1,0 +1,71 @@
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csprojAssemblyReference.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.AppointmentDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.Form1.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.Properties.Resources.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csproj.GenerateResource.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csproj.CoreCompileInputs.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.exe.config
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.exe
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.pdb
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.exe
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.pdb
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.exe.config
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.exe
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.pdb
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csprojAssemblyReference.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.AppointmentDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.Form1.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.Properties.Resources.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csproj.GenerateResource.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csproj.CoreCompileInputs.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.exe
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.pdb
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.PatientAddEditDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.DoctorAddEditDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.DoctorDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — копия\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.PatientDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.exe.config
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.exe
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.pdb
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csprojAssemblyReference.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.DoctorAddEditDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.DoctorDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.Form1.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.PatientDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.PatientAddEditDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.Properties.Resources.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csproj.GenerateResource.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csproj.CoreCompileInputs.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.exe
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.pdb
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.AppointmentDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.exe.config
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.exe
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.pdb
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csprojAssemblyReference.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.AppointmentDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.DoctorAddEditDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.DoctorDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.Form1.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.PatientDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.PatientAddEditDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.Properties.Resources.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csproj.GenerateResource.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csproj.CoreCompileInputs.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.exe
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar — New version Remake\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.pdb
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csprojAssemblyReference.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.AppointmentDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.DoctorAddEditDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.DoctorDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.Form1.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.PatientDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.PatientAddEditDialog.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.Properties.Resources.resources
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csproj.GenerateResource.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.csproj.CoreCompileInputs.cache
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.exe
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\obj\Debug\AppointmentsCalendar.pdb
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.exe.config
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.exe
+C:\Users\kolyagolubev\source\repos\AppointmentsCalendar final\AppointmentsCalendar\bin\Debug\AppointmentsCalendar.pdb
